@@ -7,6 +7,12 @@
 
 import UIKit
 
+var str = "Something"
+var x:Int
+
+
+print(str)
+
 //The For In Loop
 let names = ["Anna", "Alex", "Brian", "Jack"]
 let greetings = ["Good morning", "Good afternoon", "Good evening", "Good night", "Good day"]
